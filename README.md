@@ -43,8 +43,8 @@ Before running the script, make sure you have the following installed on your sy
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/gemini-bash-cli.git
-cd gemini-bash-cli
+git clone https://github.com/lbasilis/bash-gemini-model-switcher.git
+cd bash-gemini-model-switcher
 ```
 
 ### 2. Configure Your API Key
