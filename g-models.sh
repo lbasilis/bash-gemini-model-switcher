@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # =====================================================================
-# 🔑 CONFIGURATION: INSERT YOUR GEMINI API KEY BELOW 🔑
+# CONFIGURATION: INSERT YOUR GEMINI API KEY BELOW 🔑
 # =====================================================================
 API_KEY=""
 DEFAULT_MODEL="gemini-3.5-flash-lite"
